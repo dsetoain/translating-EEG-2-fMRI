@@ -10,3 +10,5 @@ The matlab_script should be run in matlab... and it handles converting the EEG d
 The outputs folder has the resulting true and predicted signals made from the model in csv and npy form.
 
 The models folder has the intermediate models made so the training does not have to be repeated for the permutation based importance test. 
+
+The EEG_data folder has the first three subjects data including the EEG file used, the fMRI file used (the 100 parcellation one) and the matrix for the EEG input (i think the structure from this one drastically changed when i put it here so idk if it will work well... let me know and I can send you the actual feature matrix)
