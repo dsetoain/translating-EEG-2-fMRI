@@ -146,6 +146,8 @@ def train(subject, session, data_dir, epochs=200, lr=1e-3, weight_decay=1e-4, pa
 
     mean_pearson, overall_pearson = compute_pearson(y_true_np, y_pred_np)
 
+    # plot_true_vs_pred_arrays(y_true_np, y_pred_np, subject, session, region_idx=0)
+
     print(f"{subject} {session} | Train MSE: {train_loss.item():.4f} | Test MSE: {test_loss:.4f}")
     print(f"{subject} {session} | Mean Pearson: {mean_pearson:.4f} | Overall Pearson: {overall_pearson:.4f}")
 
