@@ -1,0 +1,1096 @@
+Max Delta amp at Fp1
+Max Delta amp at Fp2
+Max Delta amp at F3
+Max Delta amp at F4
+Max Delta amp at C3
+Max Delta amp at C4
+Max Delta amp at P3
+Max Delta amp at P4
+Max Delta amp at O1
+Max Delta amp at O2
+Max Delta amp at F7
+Max Delta amp at F8
+Max Delta amp at T7
+Max Delta amp at T8
+Max Delta amp at P7
+Max Delta amp at P8
+Max Delta amp at Fz
+Max Delta amp at Pz
+Max Delta amp at Oz
+Max Delta amp at FC2
+Max Delta amp at CP1
+Max Delta amp at CP2
+Max Delta amp at FC5
+Max Delta amp at FC6
+Max Delta amp at CP5
+Max Delta amp at TP9
+Max Delta amp at TP10
+Max Delta amp at POz
+Max Delta amp at F1
+Max Delta amp at F2
+Max Delta amp at C1
+Max Delta amp at C2
+Max Delta amp at P1
+Max Delta amp at P2
+Max Delta amp at AF3
+Max Delta amp at AF4
+Max Delta amp at FC3
+Max Delta amp at FC4
+Max Delta amp at CP3
+Max Delta amp at CP4
+Max Delta amp at PO3
+Max Delta amp at PO4
+Max Delta amp at F5
+Max Delta amp at F6
+Max Delta amp at C5
+Max Delta amp at C6
+Max Delta amp at P5
+Max Delta amp at P6
+Max Delta amp at AF8
+Max Delta amp at FT7
+Max Delta amp at FT8
+Max Delta amp at TP7
+Max Delta amp at TP8
+Max Delta amp at PO7
+Max Delta amp at PO8
+Max Delta amp at Fpz
+Max Delta amp at CPz
+Min Delta amp at Fp1
+Min Delta amp at Fp2
+Min Delta amp at F3
+Min Delta amp at F4
+Min Delta amp at C3
+Min Delta amp at C4
+Min Delta amp at P3
+Min Delta amp at P4
+Min Delta amp at O1
+Min Delta amp at O2
+Min Delta amp at F7
+Min Delta amp at F8
+Min Delta amp at T7
+Min Delta amp at T8
+Min Delta amp at P7
+Min Delta amp at P8
+Min Delta amp at Fz
+Min Delta amp at Pz
+Min Delta amp at Oz
+Min Delta amp at FC2
+Min Delta amp at CP1
+Min Delta amp at CP2
+Min Delta amp at FC5
+Min Delta amp at FC6
+Min Delta amp at CP5
+Min Delta amp at TP9
+Min Delta amp at TP10
+Min Delta amp at POz
+Min Delta amp at F1
+Min Delta amp at F2
+Min Delta amp at C1
+Min Delta amp at C2
+Min Delta amp at P1
+Min Delta amp at P2
+Min Delta amp at AF3
+Min Delta amp at AF4
+Min Delta amp at FC3
+Min Delta amp at FC4
+Min Delta amp at CP3
+Min Delta amp at CP4
+Min Delta amp at PO3
+Min Delta amp at PO4
+Min Delta amp at F5
+Min Delta amp at F6
+Min Delta amp at C5
+Min Delta amp at C6
+Min Delta amp at P5
+Min Delta amp at P6
+Min Delta amp at AF8
+Min Delta amp at FT7
+Min Delta amp at FT8
+Min Delta amp at TP7
+Min Delta amp at TP8
+Min Delta amp at PO7
+Min Delta amp at PO8
+Min Delta amp at Fpz
+Min Delta amp at CPz
+Mean Delta amp at Fp1
+Mean Delta amp at Fp2
+Mean Delta amp at F3
+Mean Delta amp at F4
+Mean Delta amp at C3
+Mean Delta amp at C4
+Mean Delta amp at P3
+Mean Delta amp at P4
+Mean Delta amp at O1
+Mean Delta amp at O2
+Mean Delta amp at F7
+Mean Delta amp at F8
+Mean Delta amp at T7
+Mean Delta amp at T8
+Mean Delta amp at P7
+Mean Delta amp at P8
+Mean Delta amp at Fz
+Mean Delta amp at Pz
+Mean Delta amp at Oz
+Mean Delta amp at FC2
+Mean Delta amp at CP1
+Mean Delta amp at CP2
+Mean Delta amp at FC5
+Mean Delta amp at FC6
+Mean Delta amp at CP5
+Mean Delta amp at TP9
+Mean Delta amp at TP10
+Mean Delta amp at POz
+Mean Delta amp at F1
+Mean Delta amp at F2
+Mean Delta amp at C1
+Mean Delta amp at C2
+Mean Delta amp at P1
+Mean Delta amp at P2
+Mean Delta amp at AF3
+Mean Delta amp at AF4
+Mean Delta amp at FC3
+Mean Delta amp at FC4
+Mean Delta amp at CP3
+Mean Delta amp at CP4
+Mean Delta amp at PO3
+Mean Delta amp at PO4
+Mean Delta amp at F5
+Mean Delta amp at F6
+Mean Delta amp at C5
+Mean Delta amp at C6
+Mean Delta amp at P5
+Mean Delta amp at P6
+Mean Delta amp at AF8
+Mean Delta amp at FT7
+Mean Delta amp at FT8
+Mean Delta amp at TP7
+Mean Delta amp at TP8
+Mean Delta amp at PO7
+Mean Delta amp at PO8
+Mean Delta amp at Fpz
+Mean Delta amp at CPz
+Max Theta amp at Fp1
+Max Theta amp at Fp2
+Max Theta amp at F3
+Max Theta amp at F4
+Max Theta amp at C3
+Max Theta amp at C4
+Max Theta amp at P3
+Max Theta amp at P4
+Max Theta amp at O1
+Max Theta amp at O2
+Max Theta amp at F7
+Max Theta amp at F8
+Max Theta amp at T7
+Max Theta amp at T8
+Max Theta amp at P7
+Max Theta amp at P8
+Max Theta amp at Fz
+Max Theta amp at Pz
+Max Theta amp at Oz
+Max Theta amp at FC2
+Max Theta amp at CP1
+Max Theta amp at CP2
+Max Theta amp at FC5
+Max Theta amp at FC6
+Max Theta amp at CP5
+Max Theta amp at TP9
+Max Theta amp at TP10
+Max Theta amp at POz
+Max Theta amp at F1
+Max Theta amp at F2
+Max Theta amp at C1
+Max Theta amp at C2
+Max Theta amp at P1
+Max Theta amp at P2
+Max Theta amp at AF3
+Max Theta amp at AF4
+Max Theta amp at FC3
+Max Theta amp at FC4
+Max Theta amp at CP3
+Max Theta amp at CP4
+Max Theta amp at PO3
+Max Theta amp at PO4
+Max Theta amp at F5
+Max Theta amp at F6
+Max Theta amp at C5
+Max Theta amp at C6
+Max Theta amp at P5
+Max Theta amp at P6
+Max Theta amp at AF8
+Max Theta amp at FT7
+Max Theta amp at FT8
+Max Theta amp at TP7
+Max Theta amp at TP8
+Max Theta amp at PO7
+Max Theta amp at PO8
+Max Theta amp at Fpz
+Max Theta amp at CPz
+Min Theta amp at Fp1
+Min Theta amp at Fp2
+Min Theta amp at F3
+Min Theta amp at F4
+Min Theta amp at C3
+Min Theta amp at C4
+Min Theta amp at P3
+Min Theta amp at P4
+Min Theta amp at O1
+Min Theta amp at O2
+Min Theta amp at F7
+Min Theta amp at F8
+Min Theta amp at T7
+Min Theta amp at T8
+Min Theta amp at P7
+Min Theta amp at P8
+Min Theta amp at Fz
+Min Theta amp at Pz
+Min Theta amp at Oz
+Min Theta amp at FC2
+Min Theta amp at CP1
+Min Theta amp at CP2
+Min Theta amp at FC5
+Min Theta amp at FC6
+Min Theta amp at CP5
+Min Theta amp at TP9
+Min Theta amp at TP10
+Min Theta amp at POz
+Min Theta amp at F1
+Min Theta amp at F2
+Min Theta amp at C1
+Min Theta amp at C2
+Min Theta amp at P1
+Min Theta amp at P2
+Min Theta amp at AF3
+Min Theta amp at AF4
+Min Theta amp at FC3
+Min Theta amp at FC4
+Min Theta amp at CP3
+Min Theta amp at CP4
+Min Theta amp at PO3
+Min Theta amp at PO4
+Min Theta amp at F5
+Min Theta amp at F6
+Min Theta amp at C5
+Min Theta amp at C6
+Min Theta amp at P5
+Min Theta amp at P6
+Min Theta amp at AF8
+Min Theta amp at FT7
+Min Theta amp at FT8
+Min Theta amp at TP7
+Min Theta amp at TP8
+Min Theta amp at PO7
+Min Theta amp at PO8
+Min Theta amp at Fpz
+Min Theta amp at CPz
+Mean Theta amp at Fp1
+Mean Theta amp at Fp2
+Mean Theta amp at F3
+Mean Theta amp at F4
+Mean Theta amp at C3
+Mean Theta amp at C4
+Mean Theta amp at P3
+Mean Theta amp at P4
+Mean Theta amp at O1
+Mean Theta amp at O2
+Mean Theta amp at F7
+Mean Theta amp at F8
+Mean Theta amp at T7
+Mean Theta amp at T8
+Mean Theta amp at P7
+Mean Theta amp at P8
+Mean Theta amp at Fz
+Mean Theta amp at Pz
+Mean Theta amp at Oz
+Mean Theta amp at FC2
+Mean Theta amp at CP1
+Mean Theta amp at CP2
+Mean Theta amp at FC5
+Mean Theta amp at FC6
+Mean Theta amp at CP5
+Mean Theta amp at TP9
+Mean Theta amp at TP10
+Mean Theta amp at POz
+Mean Theta amp at F1
+Mean Theta amp at F2
+Mean Theta amp at C1
+Mean Theta amp at C2
+Mean Theta amp at P1
+Mean Theta amp at P2
+Mean Theta amp at AF3
+Mean Theta amp at AF4
+Mean Theta amp at FC3
+Mean Theta amp at FC4
+Mean Theta amp at CP3
+Mean Theta amp at CP4
+Mean Theta amp at PO3
+Mean Theta amp at PO4
+Mean Theta amp at F5
+Mean Theta amp at F6
+Mean Theta amp at C5
+Mean Theta amp at C6
+Mean Theta amp at P5
+Mean Theta amp at P6
+Mean Theta amp at AF8
+Mean Theta amp at FT7
+Mean Theta amp at FT8
+Mean Theta amp at TP7
+Mean Theta amp at TP8
+Mean Theta amp at PO7
+Mean Theta amp at PO8
+Mean Theta amp at Fpz
+Mean Theta amp at CPz
+Max Alpha amp at Fp1
+Max Alpha amp at Fp2
+Max Alpha amp at F3
+Max Alpha amp at F4
+Max Alpha amp at C3
+Max Alpha amp at C4
+Max Alpha amp at P3
+Max Alpha amp at P4
+Max Alpha amp at O1
+Max Alpha amp at O2
+Max Alpha amp at F7
+Max Alpha amp at F8
+Max Alpha amp at T7
+Max Alpha amp at T8
+Max Alpha amp at P7
+Max Alpha amp at P8
+Max Alpha amp at Fz
+Max Alpha amp at Pz
+Max Alpha amp at Oz
+Max Alpha amp at FC2
+Max Alpha amp at CP1
+Max Alpha amp at CP2
+Max Alpha amp at FC5
+Max Alpha amp at FC6
+Max Alpha amp at CP5
+Max Alpha amp at TP9
+Max Alpha amp at TP10
+Max Alpha amp at POz
+Max Alpha amp at F1
+Max Alpha amp at F2
+Max Alpha amp at C1
+Max Alpha amp at C2
+Max Alpha amp at P1
+Max Alpha amp at P2
+Max Alpha amp at AF3
+Max Alpha amp at AF4
+Max Alpha amp at FC3
+Max Alpha amp at FC4
+Max Alpha amp at CP3
+Max Alpha amp at CP4
+Max Alpha amp at PO3
+Max Alpha amp at PO4
+Max Alpha amp at F5
+Max Alpha amp at F6
+Max Alpha amp at C5
+Max Alpha amp at C6
+Max Alpha amp at P5
+Max Alpha amp at P6
+Max Alpha amp at AF8
+Max Alpha amp at FT7
+Max Alpha amp at FT8
+Max Alpha amp at TP7
+Max Alpha amp at TP8
+Max Alpha amp at PO7
+Max Alpha amp at PO8
+Max Alpha amp at Fpz
+Max Alpha amp at CPz
+Min Alpha amp at Fp1
+Min Alpha amp at Fp2
+Min Alpha amp at F3
+Min Alpha amp at F4
+Min Alpha amp at C3
+Min Alpha amp at C4
+Min Alpha amp at P3
+Min Alpha amp at P4
+Min Alpha amp at O1
+Min Alpha amp at O2
+Min Alpha amp at F7
+Min Alpha amp at F8
+Min Alpha amp at T7
+Min Alpha amp at T8
+Min Alpha amp at P7
+Min Alpha amp at P8
+Min Alpha amp at Fz
+Min Alpha amp at Pz
+Min Alpha amp at Oz
+Min Alpha amp at FC2
+Min Alpha amp at CP1
+Min Alpha amp at CP2
+Min Alpha amp at FC5
+Min Alpha amp at FC6
+Min Alpha amp at CP5
+Min Alpha amp at TP9
+Min Alpha amp at TP10
+Min Alpha amp at POz
+Min Alpha amp at F1
+Min Alpha amp at F2
+Min Alpha amp at C1
+Min Alpha amp at C2
+Min Alpha amp at P1
+Min Alpha amp at P2
+Min Alpha amp at AF3
+Min Alpha amp at AF4
+Min Alpha amp at FC3
+Min Alpha amp at FC4
+Min Alpha amp at CP3
+Min Alpha amp at CP4
+Min Alpha amp at PO3
+Min Alpha amp at PO4
+Min Alpha amp at F5
+Min Alpha amp at F6
+Min Alpha amp at C5
+Min Alpha amp at C6
+Min Alpha amp at P5
+Min Alpha amp at P6
+Min Alpha amp at AF8
+Min Alpha amp at FT7
+Min Alpha amp at FT8
+Min Alpha amp at TP7
+Min Alpha amp at TP8
+Min Alpha amp at PO7
+Min Alpha amp at PO8
+Min Alpha amp at Fpz
+Min Alpha amp at CPz
+Mean Alpha amp at Fp1
+Mean Alpha amp at Fp2
+Mean Alpha amp at F3
+Mean Alpha amp at F4
+Mean Alpha amp at C3
+Mean Alpha amp at C4
+Mean Alpha amp at P3
+Mean Alpha amp at P4
+Mean Alpha amp at O1
+Mean Alpha amp at O2
+Mean Alpha amp at F7
+Mean Alpha amp at F8
+Mean Alpha amp at T7
+Mean Alpha amp at T8
+Mean Alpha amp at P7
+Mean Alpha amp at P8
+Mean Alpha amp at Fz
+Mean Alpha amp at Pz
+Mean Alpha amp at Oz
+Mean Alpha amp at FC2
+Mean Alpha amp at CP1
+Mean Alpha amp at CP2
+Mean Alpha amp at FC5
+Mean Alpha amp at FC6
+Mean Alpha amp at CP5
+Mean Alpha amp at TP9
+Mean Alpha amp at TP10
+Mean Alpha amp at POz
+Mean Alpha amp at F1
+Mean Alpha amp at F2
+Mean Alpha amp at C1
+Mean Alpha amp at C2
+Mean Alpha amp at P1
+Mean Alpha amp at P2
+Mean Alpha amp at AF3
+Mean Alpha amp at AF4
+Mean Alpha amp at FC3
+Mean Alpha amp at FC4
+Mean Alpha amp at CP3
+Mean Alpha amp at CP4
+Mean Alpha amp at PO3
+Mean Alpha amp at PO4
+Mean Alpha amp at F5
+Mean Alpha amp at F6
+Mean Alpha amp at C5
+Mean Alpha amp at C6
+Mean Alpha amp at P5
+Mean Alpha amp at P6
+Mean Alpha amp at AF8
+Mean Alpha amp at FT7
+Mean Alpha amp at FT8
+Mean Alpha amp at TP7
+Mean Alpha amp at TP8
+Mean Alpha amp at PO7
+Mean Alpha amp at PO8
+Mean Alpha amp at Fpz
+Mean Alpha amp at CPz
+Max Beta amp at Fp1
+Max Beta amp at Fp2
+Max Beta amp at F3
+Max Beta amp at F4
+Max Beta amp at C3
+Max Beta amp at C4
+Max Beta amp at P3
+Max Beta amp at P4
+Max Beta amp at O1
+Max Beta amp at O2
+Max Beta amp at F7
+Max Beta amp at F8
+Max Beta amp at T7
+Max Beta amp at T8
+Max Beta amp at P7
+Max Beta amp at P8
+Max Beta amp at Fz
+Max Beta amp at Pz
+Max Beta amp at Oz
+Max Beta amp at FC2
+Max Beta amp at CP1
+Max Beta amp at CP2
+Max Beta amp at FC5
+Max Beta amp at FC6
+Max Beta amp at CP5
+Max Beta amp at TP9
+Max Beta amp at TP10
+Max Beta amp at POz
+Max Beta amp at F1
+Max Beta amp at F2
+Max Beta amp at C1
+Max Beta amp at C2
+Max Beta amp at P1
+Max Beta amp at P2
+Max Beta amp at AF3
+Max Beta amp at AF4
+Max Beta amp at FC3
+Max Beta amp at FC4
+Max Beta amp at CP3
+Max Beta amp at CP4
+Max Beta amp at PO3
+Max Beta amp at PO4
+Max Beta amp at F5
+Max Beta amp at F6
+Max Beta amp at C5
+Max Beta amp at C6
+Max Beta amp at P5
+Max Beta amp at P6
+Max Beta amp at AF8
+Max Beta amp at FT7
+Max Beta amp at FT8
+Max Beta amp at TP7
+Max Beta amp at TP8
+Max Beta amp at PO7
+Max Beta amp at PO8
+Max Beta amp at Fpz
+Max Beta amp at CPz
+Min Beta amp at Fp1
+Min Beta amp at Fp2
+Min Beta amp at F3
+Min Beta amp at F4
+Min Beta amp at C3
+Min Beta amp at C4
+Min Beta amp at P3
+Min Beta amp at P4
+Min Beta amp at O1
+Min Beta amp at O2
+Min Beta amp at F7
+Min Beta amp at F8
+Min Beta amp at T7
+Min Beta amp at T8
+Min Beta amp at P7
+Min Beta amp at P8
+Min Beta amp at Fz
+Min Beta amp at Pz
+Min Beta amp at Oz
+Min Beta amp at FC2
+Min Beta amp at CP1
+Min Beta amp at CP2
+Min Beta amp at FC5
+Min Beta amp at FC6
+Min Beta amp at CP5
+Min Beta amp at TP9
+Min Beta amp at TP10
+Min Beta amp at POz
+Min Beta amp at F1
+Min Beta amp at F2
+Min Beta amp at C1
+Min Beta amp at C2
+Min Beta amp at P1
+Min Beta amp at P2
+Min Beta amp at AF3
+Min Beta amp at AF4
+Min Beta amp at FC3
+Min Beta amp at FC4
+Min Beta amp at CP3
+Min Beta amp at CP4
+Min Beta amp at PO3
+Min Beta amp at PO4
+Min Beta amp at F5
+Min Beta amp at F6
+Min Beta amp at C5
+Min Beta amp at C6
+Min Beta amp at P5
+Min Beta amp at P6
+Min Beta amp at AF8
+Min Beta amp at FT7
+Min Beta amp at FT8
+Min Beta amp at TP7
+Min Beta amp at TP8
+Min Beta amp at PO7
+Min Beta amp at PO8
+Min Beta amp at Fpz
+Min Beta amp at CPz
+Mean Beta amp at Fp1
+Mean Beta amp at Fp2
+Mean Beta amp at F3
+Mean Beta amp at F4
+Mean Beta amp at C3
+Mean Beta amp at C4
+Mean Beta amp at P3
+Mean Beta amp at P4
+Mean Beta amp at O1
+Mean Beta amp at O2
+Mean Beta amp at F7
+Mean Beta amp at F8
+Mean Beta amp at T7
+Mean Beta amp at T8
+Mean Beta amp at P7
+Mean Beta amp at P8
+Mean Beta amp at Fz
+Mean Beta amp at Pz
+Mean Beta amp at Oz
+Mean Beta amp at FC2
+Mean Beta amp at CP1
+Mean Beta amp at CP2
+Mean Beta amp at FC5
+Mean Beta amp at FC6
+Mean Beta amp at CP5
+Mean Beta amp at TP9
+Mean Beta amp at TP10
+Mean Beta amp at POz
+Mean Beta amp at F1
+Mean Beta amp at F2
+Mean Beta amp at C1
+Mean Beta amp at C2
+Mean Beta amp at P1
+Mean Beta amp at P2
+Mean Beta amp at AF3
+Mean Beta amp at AF4
+Mean Beta amp at FC3
+Mean Beta amp at FC4
+Mean Beta amp at CP3
+Mean Beta amp at CP4
+Mean Beta amp at PO3
+Mean Beta amp at PO4
+Mean Beta amp at F5
+Mean Beta amp at F6
+Mean Beta amp at C5
+Mean Beta amp at C6
+Mean Beta amp at P5
+Mean Beta amp at P6
+Mean Beta amp at AF8
+Mean Beta amp at FT7
+Mean Beta amp at FT8
+Mean Beta amp at TP7
+Mean Beta amp at TP8
+Mean Beta amp at PO7
+Mean Beta amp at PO8
+Mean Beta amp at Fpz
+Mean Beta amp at CPz
+Max Gamma amp at Fp1
+Max Gamma amp at Fp2
+Max Gamma amp at F3
+Max Gamma amp at F4
+Max Gamma amp at C3
+Max Gamma amp at C4
+Max Gamma amp at P3
+Max Gamma amp at P4
+Max Gamma amp at O1
+Max Gamma amp at O2
+Max Gamma amp at F7
+Max Gamma amp at F8
+Max Gamma amp at T7
+Max Gamma amp at T8
+Max Gamma amp at P7
+Max Gamma amp at P8
+Max Gamma amp at Fz
+Max Gamma amp at Pz
+Max Gamma amp at Oz
+Max Gamma amp at FC2
+Max Gamma amp at CP1
+Max Gamma amp at CP2
+Max Gamma amp at FC5
+Max Gamma amp at FC6
+Max Gamma amp at CP5
+Max Gamma amp at TP9
+Max Gamma amp at TP10
+Max Gamma amp at POz
+Max Gamma amp at F1
+Max Gamma amp at F2
+Max Gamma amp at C1
+Max Gamma amp at C2
+Max Gamma amp at P1
+Max Gamma amp at P2
+Max Gamma amp at AF3
+Max Gamma amp at AF4
+Max Gamma amp at FC3
+Max Gamma amp at FC4
+Max Gamma amp at CP3
+Max Gamma amp at CP4
+Max Gamma amp at PO3
+Max Gamma amp at PO4
+Max Gamma amp at F5
+Max Gamma amp at F6
+Max Gamma amp at C5
+Max Gamma amp at C6
+Max Gamma amp at P5
+Max Gamma amp at P6
+Max Gamma amp at AF8
+Max Gamma amp at FT7
+Max Gamma amp at FT8
+Max Gamma amp at TP7
+Max Gamma amp at TP8
+Max Gamma amp at PO7
+Max Gamma amp at PO8
+Max Gamma amp at Fpz
+Max Gamma amp at CPz
+Min Gamma amp at Fp1
+Min Gamma amp at Fp2
+Min Gamma amp at F3
+Min Gamma amp at F4
+Min Gamma amp at C3
+Min Gamma amp at C4
+Min Gamma amp at P3
+Min Gamma amp at P4
+Min Gamma amp at O1
+Min Gamma amp at O2
+Min Gamma amp at F7
+Min Gamma amp at F8
+Min Gamma amp at T7
+Min Gamma amp at T8
+Min Gamma amp at P7
+Min Gamma amp at P8
+Min Gamma amp at Fz
+Min Gamma amp at Pz
+Min Gamma amp at Oz
+Min Gamma amp at FC2
+Min Gamma amp at CP1
+Min Gamma amp at CP2
+Min Gamma amp at FC5
+Min Gamma amp at FC6
+Min Gamma amp at CP5
+Min Gamma amp at TP9
+Min Gamma amp at TP10
+Min Gamma amp at POz
+Min Gamma amp at F1
+Min Gamma amp at F2
+Min Gamma amp at C1
+Min Gamma amp at C2
+Min Gamma amp at P1
+Min Gamma amp at P2
+Min Gamma amp at AF3
+Min Gamma amp at AF4
+Min Gamma amp at FC3
+Min Gamma amp at FC4
+Min Gamma amp at CP3
+Min Gamma amp at CP4
+Min Gamma amp at PO3
+Min Gamma amp at PO4
+Min Gamma amp at F5
+Min Gamma amp at F6
+Min Gamma amp at C5
+Min Gamma amp at C6
+Min Gamma amp at P5
+Min Gamma amp at P6
+Min Gamma amp at AF8
+Min Gamma amp at FT7
+Min Gamma amp at FT8
+Min Gamma amp at TP7
+Min Gamma amp at TP8
+Min Gamma amp at PO7
+Min Gamma amp at PO8
+Min Gamma amp at Fpz
+Min Gamma amp at CPz
+Mean Gamma amp at Fp1
+Mean Gamma amp at Fp2
+Mean Gamma amp at F3
+Mean Gamma amp at F4
+Mean Gamma amp at C3
+Mean Gamma amp at C4
+Mean Gamma amp at P3
+Mean Gamma amp at P4
+Mean Gamma amp at O1
+Mean Gamma amp at O2
+Mean Gamma amp at F7
+Mean Gamma amp at F8
+Mean Gamma amp at T7
+Mean Gamma amp at T8
+Mean Gamma amp at P7
+Mean Gamma amp at P8
+Mean Gamma amp at Fz
+Mean Gamma amp at Pz
+Mean Gamma amp at Oz
+Mean Gamma amp at FC2
+Mean Gamma amp at CP1
+Mean Gamma amp at CP2
+Mean Gamma amp at FC5
+Mean Gamma amp at FC6
+Mean Gamma amp at CP5
+Mean Gamma amp at TP9
+Mean Gamma amp at TP10
+Mean Gamma amp at POz
+Mean Gamma amp at F1
+Mean Gamma amp at F2
+Mean Gamma amp at C1
+Mean Gamma amp at C2
+Mean Gamma amp at P1
+Mean Gamma amp at P2
+Mean Gamma amp at AF3
+Mean Gamma amp at AF4
+Mean Gamma amp at FC3
+Mean Gamma amp at FC4
+Mean Gamma amp at CP3
+Mean Gamma amp at CP4
+Mean Gamma amp at PO3
+Mean Gamma amp at PO4
+Mean Gamma amp at F5
+Mean Gamma amp at F6
+Mean Gamma amp at C5
+Mean Gamma amp at C6
+Mean Gamma amp at P5
+Mean Gamma amp at P6
+Mean Gamma amp at AF8
+Mean Gamma amp at FT7
+Mean Gamma amp at FT8
+Mean Gamma amp at TP7
+Mean Gamma amp at TP8
+Mean Gamma amp at PO7
+Mean Gamma amp at PO8
+Mean Gamma amp at Fpz
+Mean Gamma amp at CPz
+1/f slope at Fp1
+1/f slope at Fp2
+1/f slope at F3
+1/f slope at F4
+1/f slope at C3
+1/f slope at C4
+1/f slope at P3
+1/f slope at P4
+1/f slope at O1
+1/f slope at O2
+1/f slope at F7
+1/f slope at F8
+1/f slope at T7
+1/f slope at T8
+1/f slope at P7
+1/f slope at P8
+1/f slope at Fz
+1/f slope at Pz
+1/f slope at Oz
+1/f slope at FC2
+1/f slope at CP1
+1/f slope at CP2
+1/f slope at FC5
+1/f slope at FC6
+1/f slope at CP5
+1/f slope at TP9
+1/f slope at TP10
+1/f slope at POz
+1/f slope at F1
+1/f slope at F2
+1/f slope at C1
+1/f slope at C2
+1/f slope at P1
+1/f slope at P2
+1/f slope at AF3
+1/f slope at AF4
+1/f slope at FC3
+1/f slope at FC4
+1/f slope at CP3
+1/f slope at CP4
+1/f slope at PO3
+1/f slope at PO4
+1/f slope at F5
+1/f slope at F6
+1/f slope at C5
+1/f slope at C6
+1/f slope at P5
+1/f slope at P6
+1/f slope at AF8
+1/f slope at FT7
+1/f slope at FT8
+1/f slope at TP7
+1/f slope at TP8
+1/f slope at PO7
+1/f slope at PO8
+1/f slope at Fpz
+1/f slope at CPz
+Burst count at Fp1
+Burst duration at Fp1
+Burst count at Fp2
+Burst duration at Fp2
+Burst count at F3
+Burst duration at F3
+Burst count at F4
+Burst duration at F4
+Burst count at C3
+Burst duration at C3
+Burst count at C4
+Burst duration at C4
+Burst count at P3
+Burst duration at P3
+Burst count at P4
+Burst duration at P4
+Burst count at O1
+Burst duration at O1
+Burst count at O2
+Burst duration at O2
+Burst count at F7
+Burst duration at F7
+Burst count at F8
+Burst duration at F8
+Burst count at T7
+Burst duration at T7
+Burst count at T8
+Burst duration at T8
+Burst count at P7
+Burst duration at P7
+Burst count at P8
+Burst duration at P8
+Burst count at Fz
+Burst duration at Fz
+Burst count at Pz
+Burst duration at Pz
+Burst count at Oz
+Burst duration at Oz
+Burst count at FC2
+Burst duration at FC2
+Burst count at CP1
+Burst duration at CP1
+Burst count at CP2
+Burst duration at CP2
+Burst count at FC5
+Burst duration at FC5
+Burst count at FC6
+Burst duration at FC6
+Burst count at CP5
+Burst duration at CP5
+Burst count at TP9
+Burst duration at TP9
+Burst count at TP10
+Burst duration at TP10
+Burst count at POz
+Burst duration at POz
+Burst count at F1
+Burst duration at F1
+Burst count at F2
+Burst duration at F2
+Burst count at C1
+Burst duration at C1
+Burst count at C2
+Burst duration at C2
+Burst count at P1
+Burst duration at P1
+Burst count at P2
+Burst duration at P2
+Burst count at AF3
+Burst duration at AF3
+Burst count at AF4
+Burst duration at AF4
+Burst count at FC3
+Burst duration at FC3
+Burst count at FC4
+Burst duration at FC4
+Burst count at CP3
+Burst duration at CP3
+Burst count at CP4
+Burst duration at CP4
+Burst count at PO3
+Burst duration at PO3
+Burst count at PO4
+Burst duration at PO4
+Burst count at F5
+Burst duration at F5
+Burst count at F6
+Burst duration at F6
+Burst count at C5
+Burst duration at C5
+Burst count at C6
+Burst duration at C6
+Burst count at P5
+Burst duration at P5
+Burst count at P6
+Burst duration at P6
+Burst count at AF8
+Burst duration at AF8
+Burst count at FT7
+Burst duration at FT7
+Burst count at FT8
+Burst duration at FT8
+Burst count at TP7
+Burst duration at TP7
+Burst count at TP8
+Burst duration at TP8
+Burst count at PO7
+Burst duration at PO7
+Burst count at PO8
+Burst duration at PO8
+Burst count at Fpz
+Burst duration at Fpz
+Burst count at CPz
+Burst duration at CPz
+Peak freq at Fp1
+Peak freq at Fp2
+Peak freq at F3
+Peak freq at F4
+Peak freq at C3
+Peak freq at C4
+Peak freq at P3
+Peak freq at P4
+Peak freq at O1
+Peak freq at O2
+Peak freq at F7
+Peak freq at F8
+Peak freq at T7
+Peak freq at T8
+Peak freq at P7
+Peak freq at P8
+Peak freq at Fz
+Peak freq at Pz
+Peak freq at Oz
+Peak freq at FC2
+Peak freq at CP1
+Peak freq at CP2
+Peak freq at FC5
+Peak freq at FC6
+Peak freq at CP5
+Peak freq at TP9
+Peak freq at TP10
+Peak freq at POz
+Peak freq at F1
+Peak freq at F2
+Peak freq at C1
+Peak freq at C2
+Peak freq at P1
+Peak freq at P2
+Peak freq at AF3
+Peak freq at AF4
+Peak freq at FC3
+Peak freq at FC4
+Peak freq at CP3
+Peak freq at CP4
+Peak freq at PO3
+Peak freq at PO4
+Peak freq at F5
+Peak freq at F6
+Peak freq at C5
+Peak freq at C6
+Peak freq at P5
+Peak freq at P6
+Peak freq at AF8
+Peak freq at FT7
+Peak freq at FT8
+Peak freq at TP7
+Peak freq at TP8
+Peak freq at PO7
+Peak freq at PO8
+Peak freq at Fpz
+Peak freq at CPz
+PLV (alpha) F3-F4
+AEC (alpha) F3-F4
+PLV (alpha) C3-C4
+AEC (alpha) C3-C4
+PLV (alpha) O1-O2
+AEC (alpha) O1-O2
+PLV (alpha) T7-T8
+AEC (alpha) T7-T8
+PLV (alpha) Fz-Pz
+AEC (alpha) Fz-Pz
+PLV (alpha) P3-P4
+AEC (alpha) P3-P4
+Mean Global Field Power
