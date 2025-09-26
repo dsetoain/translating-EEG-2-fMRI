@@ -1,5 +1,5 @@
-# Thesis-work
-All the coding behind the thesis project (matlab script included)
+# Translating EEG-derived features into fMRI-like signal representations
+All the coding behind this project (matlab script included)
 
 The encoder_decoder file holds the translation model, it is run through the training.py file which handles loading the input data, running the model, training the model on the data, and printing the values for MSE and Pearson used in the paper. Also runs the plotting but this part is commented out in this version. 
 
